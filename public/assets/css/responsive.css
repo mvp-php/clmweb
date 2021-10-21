@@ -1,0 +1,713 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 576px) {
+  html,body{
+	  overflow-x:hidden;
+  }  
+.box_cstm {
+    width: 90%;
+    overflow-x: hidden;
+}
+.box_i {
+    padding: 30px 0px;
+}
+.row_cstm{
+        padding: 0px !important;
+}
+.pd_cstm {
+    padding: 8px 35px !important;
+}
+    .btn-red-cstm {
+    font-size: 9px;
+    padding: 8px 70px;
+}
+.lable_class {
+    width: 100%;
+    font-size: 14px;
+    text-align: left;
+}
+.box::before, .box::after
+{
+  background: none;
+    box-shadow: none;
+}
+.mt4 {
+    margin-top: 0rem !important;
+}
+.left.icon {
+    margin-top: 10px;
+}
+    .form-group {
+    margin-bottom: 1.2rem;
+}
+    .mt-2, .my-2 {
+    margin-top: 0;
+}
+.mt_b {
+    margin-top: 60px;
+}
+.pr_caption {
+    font-size: 26px;
+}
+.unstyled.centered li {
+    margin: 0px 0px 20px 0px;
+	width: 100%;
+}
+.pr_b2 {
+    padding: 20px;
+}
+.pr_s_box {
+    width: 80%;
+}
+#progressbar {
+    width: 100%;
+	margin: 20px auto;
+}
+#progressbar:after {
+     width: 100%;
+	 border: 2px solid #e2e2e2;
+}
+#progressbar li:before {
+    margin: 40px auto 10px auto;
+	width: 22px;
+    height: 22px;
+    line-height: 23px;
+}
+.hide_div2 {
+    width: 30%;
+    right: 0;
+    margin-top: 0;
+    top: -60px;
+    text-align: center;
+    padding: 0;
+    padding-bottom: 20px;
+    left: 20%;
+}
+.hide_div3 {
+    width: 40%;
+    right: 0;
+    margin-top: 0;
+    top: -162px;
+    padding: 0;
+    left: 23%;
+    padding-top: 10px;
+}
+.hide_div {
+    width: 79%;
+    right: 0;
+    margin-top: 0;
+    top: -122px;
+    padding: 0;
+    left: 11%;
+    font-size: 9px;
+}
+#select_date select {
+    width: 100%;
+}
+.d-inhrt {
+    display: inherit !important;
+}
+.nxt_btn2 {
+    margin: 0px auto 20px auto;
+    display: table;
+}
+.pr_myr {
+    padding: 0px 14px;
+}
+.pr_t2 {
+    text-align: center;
+}
+.pr_text_box {
+    padding-bottom: 30px;
+}
+.guest1_card {
+    width: 100%;
+	margin-bottom:60px;
+}
+.mtb_0{
+	margin-top:0px !important;
+}
+#guest_btn_id .btn-red2 {
+    font-size: 16px !important;
+    padding: 4px 28px !important;
+}
+.pr_caption {
+    position: relative;
+    top: 15px;
+    padding-bottom: 30px;
+}
+.in_pd p {
+    letter-spacing: 0px;
+    font-size: 11px !important;
+    line-height: 30px;
+}
+.booking_d2 {
+    width: 100%;
+    margin-top: 60px;
+}
+.plb_5{
+	padding-left:0px !important;
+}
+.cr_btn button {
+    width: 60% !important;
+}
+.fvx_img {
+    top: 0px;
+}
+.visa_cadr2_img {
+    right: 15px;
+    width: 13%;
+}
+.mtb_00{
+	padding-left:0px;
+	padding-right:0px;
+}
+.mtb_top {
+    margin-top: 30px;
+}
+.mtb_50 {
+    margin-top: 50px;
+}
+.btn-red3 {
+    width: 100%;
+    font-size: 14px !important;
+}
+    #pax_btn .nxt_btn {
+    display: table;
+    margin: auto;
+    width: 100%;
+    margin-bottom: 20px;
+}
+    h4, .h4 {
+    font-size: 1.2rem !important;
+}
+    img.img-fluid.br_c {
+    display: table;
+    margin: 10px auto;
+}
+    .custom-control.custom-checkbox {
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+    padding: 0;
+    font-family: Muli-Bold;
+}
+ #mid1 .custom-checkbox .custom-control-label::before {
+    left: 22px;
+}
+#mid2 .custom-checkbox .custom-control-label::before {
+    left: 22px;
+}
+#mid1 .custom-control-label::after {
+    left: 22px;
+}
+#mid2 .custom-control-label::after {
+    left: 22px;
+}
+    .styled-checkbox + label:before {
+    margin-right: 6px;
+}
+    .d_morning h6 {
+    padding-top: 16px;
+}
+    ul.unstyled.centered {
+    padding-top: 30px;
+}
+    .hide_div .col-xl-4.col-4 {
+    padding: 0;
+}
+    .pb_0{
+        padding: 0px !important;
+    }
+     #logo h1 {
+    margin: 0 !important;
+}
+}
+@media only screen and (min-device-width : 342px) and (max-device-width : 576px) {
+#progressbar li:before {
+    margin: 23px auto 10px auto;
+	width: 22px;
+    height: 22px;
+    line-height: 23px;
+}
+}
+
+
+@media only screen and (min-device-width: 576px) and (max-device-width: 767px) {
+.box_cstm {
+    width: 90%;
+    overflow-x: hidden;
+}
+.box_i {
+    padding: 30px 0px;
+}
+.row_cstm{
+        padding: 0px !important;
+}
+.box_i input {
+    width: 70%;
+}
+.lable_class {
+    width: 100%;
+    font-size: 14px;
+    text-align: left;
+    padding: 0px 65px;
+}
+.iti--allow-dropdown .iti__flag-container, .iti--separate-dial-code .iti__flag-container {
+    left: 70px !important;
+}
+.mt4 {
+    margin-top: 0;
+}
+.form-group {
+    margin-bottom: 1.2rem;
+}
+.box::before, .box::after
+{
+  background: none;
+    box-shadow: none;
+}
+    .mt_b {
+    margin-top: 60px;
+}
+.pr_caption {
+    font-size: 26px;
+}
+.unstyled.centered li {
+    margin: 0px 0px 20px 0px;
+	width: 100%;
+}
+.pr_b2 {
+    padding: 20px;
+}
+.pr_s_box {
+    width: 80%;
+}
+#progressbar {
+    width: 100%;
+	margin: 20px auto;
+}
+#progressbar:after {
+     width: 100%;
+	 border: 2px solid #e2e2e2;
+}
+#progressbar li:before {
+    margin: 24px auto 10px auto;
+	width: 22px;
+    height: 22px;
+    line-height: 23px;
+}
+.hide_div2 {
+    width: 80%;
+    right: 31px;
+    margin-top: 0;
+    top: -60px;
+}
+.hide_div3 {
+    width: 80%;
+    right: 31px;
+    margin-top: 0;
+    top: -180px;
+	padding:0;
+}
+.hide_div {
+    width: 80%;
+    right: 31px;
+    margin-top: 0;
+    top: -122px;
+	padding:0;
+}
+.d-inhrt {
+    display: inherit !important;
+}
+.nxt_btn2 {
+    margin: 0px auto 20px auto;
+    display: table;
+}
+.pr_myr {
+    padding: 0px 14px;
+}
+.pr_t2 {
+    text-align: center;
+}
+.pr_text_box {
+    padding-bottom: 30px;
+}
+
+.input_pd .lable_class {
+    padding: 0px;
+}
+.guest1_card {
+    width: 100%;
+	margin-bottom:60px;
+}
+.mtb_0{
+	margin-top:0px !important;
+}
+#guest_btn_id .btn-red2 {
+    font-size: 16px !important;
+    padding: 4px 60px !important;
+}
+.pr_caption {
+    position: relative;
+    top: 15px;
+}
+.in_pd p {
+    letter-spacing: 0px;
+    font-size: 11px !important;
+    line-height: 30px;
+}
+.booking_d2 {
+    width: 100%;
+    margin-top: 60px;
+}
+.plb_5{
+	padding-left:0px !important;
+}
+.cr_btn button {
+    width: 40% !important;
+}
+.fvx_img {
+    top: 0px;
+}
+.visa_cadr2_img {
+    right: 15px;
+    width: 9%;
+}
+.mtb_50 {
+    margin-top: 50px;
+}
+.mtb_top {
+    margin-top: 30px;
+}
+    #pax_btn .nxt_btn .btn-red3 {
+    width: 130px;
+    height: 43px;
+    font-size: 14px !important;
+}
+    h4, .h4 {
+    font-size: 1.2rem !important;
+}
+    img.img-fluid.br_c {
+    display: table;
+    margin: 10px auto;
+}
+    
+}
+
+
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 991px) {
+ 
+.box_cstm {
+    width: 90%;
+    overflow-x: hidden;
+}
+.box_i {
+    padding: 30px 0px;
+}
+.row_cstm{
+        padding: 0px !important;
+}
+.box_i input {
+    width: 50%;
+}
+.lable_class {
+    width: 100%;
+    text-align: left;
+    padding: 0px 149px;
+}
+#input_id input {
+    width: 100%;
+}
+#input_id .lable_class {
+    padding: 0px 0px;
+}
+    .box::before, .box::after
+{
+  background: none;
+    box-shadow: none;
+}
+ .mt_b {
+    margin-top: 60px;
+} 
+.pr_myr {
+    padding-left: 14px;
+}
+.pr_s_box {
+    width: 80%;
+}
+#progressbar:after {
+     width: 100%;
+}
+.hide_div2 {
+    width: 19%;
+    right: 0;
+    margin-top: 0;
+    top: -68px;
+    left: 15%;
+    padding: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.hide_div3 {
+    width: 22%;
+    right: 0;
+    margin-top: 0;
+    top: -162px;
+    padding: 0;
+    left: 15%;
+    padding-top: 10px;
+}
+.hide_div {
+    width: 72%;
+    right: 0;
+    margin-top: 0;
+    top: -117px;
+    padding: 0;
+    left: 15%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+ .pr_t2 {
+    text-align: center;
+}
+.input_pd .lable_class {
+    padding: 0px;
+}
+.guest1_card {
+    width: 100%;
+	margin-bottom:60px;
+}
+.mtb_0{
+	margin-top:0px !important;
+}
+#guest_btn_id .btn-red2 {
+    font-size: 16px !important;
+    padding: 4px 60px !important;
+}
+.pr_caption {
+    position: relative;
+    top: 0px;
+}
+.in_pd p {
+    letter-spacing: 0px;
+    font-size: 11px !important;
+    line-height: 30px;
+}
+.booking_d2 {
+    width: 100%;
+    margin-top: 60px;
+}
+.plb_5{
+	padding-left:0px !important;
+}
+.cr_btn button {
+    width: 24% !important;
+}
+.fvx_img {
+    top: 0px;
+}
+.visa_cadr2_img {
+    right: 15px;
+    width: 6%;
+}
+.mtb_50 {
+    margin-top: 50px;
+}
+.mtb_top {
+    margin-top: 30px;
+}
+.mtb_00 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+    img.img-fluid.br_c {
+    display: table;
+    margin: 10px auto;
+}
+    #logo img.img-responsive {
+    width: 20%;
+}
+    .btn-red {
+    padding: 6px 20px;
+}
+ul.header-w3_pvt li, ul.header-w3_pvt li p, ul.header-w3_pvt li a {
+    font-size: 9px !important;
+}
+/*
+.toggle {
+    display: block;
+    padding: 7px 16px;
+    font-size: 17px;
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+    color: black;
+    position: absolute;
+    right: 0;
+    top: 0;
+    left: 166%;
+    z-index: 99;
+}
+*/
+    [id^=drop]:checked + ul {
+    position: relative;
+    top: 23px;
+}
+#select_date select {
+    width: 100%;
+}
+    #phone_number_select .lable_class {
+    padding: 0px 15px;
+}
+    #logo h1 {
+    margin: 0 !important;
+}
+}
+
+
+@media only screen and (min-device-width : 992px) and (max-device-width : 1199px) {
+    .btn-red-cstm {
+    padding: 8px 46px;
+}
+    .box_i {
+    padding: 30px 70px;
+}
+    .btn-red-cstm {
+    font-size: 12px;
+}
+.pr_myr {
+    padding-left: 14px;
+}
+.pr_s_box {
+    width: 80%;
+}
+#progressbar:after {
+     width: 100%;
+}
+/*
+.hide_div2 {
+    width: 75%;
+    right: 94px;
+    margin-top: 0;
+    top: -100px;
+}
+.hide_div3 {
+    width: 75%;
+    right: 97px;
+    margin-top: 0;
+    top: -208px;
+    padding: 0;
+}
+.hide_div {
+    width: 75%;
+    right: 95px;
+    margin-top: 0;
+    top: -156px;
+    padding: 0;
+}
+*/
+    .hide_div2 {
+    width: 19%;
+    right: 0;
+    margin-top: 0;
+    top: -68px;
+    left: 12%;
+    padding: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.hide_div3 {
+    width: 22%;
+    right: 0;
+    margin-top: 0;
+    top: -162px;
+    padding: 0;
+    left: 12%;
+    padding-top: 10px;
+}
+.hide_div {
+    width: 72%;
+    right: 0;
+    margin-top: 0;
+    top: -117px;
+    padding: 0;
+    left: 12%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+    #select_date select {
+    width: 100%;
+}
+.pr_t2 {
+    text-align: center;
+}
+.guest1_card {
+	margin-bottom:60px;
+}
+
+.in_pd p {
+    letter-spacing: 0px;
+    font-size: 11px !important;
+    line-height: 30px;
+}
+.booking_d2 {
+    width: 100%;
+    margin-top: 60px;
+}
+
+.cr_btn button {
+    width: 20% !important;
+}
+.fvx_img {
+    top: 0px;
+}
+.visa_cadr2_img {
+    right: 15px;
+    width: 4%;
+}
+.in_pd {
+    padding: 20px 50px;
+}
+.gs_card {
+    padding: 20px 50px;
+}
+.mtb_50 {
+    margin-top: 50px;
+}
+.mtb_top {
+    margin-top: 30px;
+}
+.mtb_00 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.m_row{
+	margin-left: 0px !important;
+    margin-right: -1px !important;
+}
+    img.img-fluid.br_c {
+    display: table;
+    margin: 10px auto;
+}
+.btn-red {
+   padding: 6px 20px;
+    margin-top: 11px;
+}
+     #logo h1 {
+    margin: 0 !important;
+}
+    ul.menu.mt-2.ml-auto {
+    padding-top: 11px;
+}
+   
+}
+
+
+
+@media only screen and (min-device-width : 1200px) and (max-device-width : 2048px) {
+    
+        
+        
+}
+
